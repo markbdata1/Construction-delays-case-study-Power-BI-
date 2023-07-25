@@ -11,6 +11,9 @@ Case Study Background:
 Question 1 – Identify Contractors with positive delays
 Question 2 – Identify projects with delays
 
+
+Background:
+
 Identify Critical Path: 
 Utilize Critical Path Method (CPM) techniques to identify the critical path of the project. The critical path represents the sequence of activities that determine the project's overall duration. Focus on activities that have the least flexibility for delays.
 
