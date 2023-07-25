@@ -25,8 +25,3 @@ Foster strong collaboration and communication among project teams, subcontractor
 
 Statement:
 By integrating data analysis into the scheduling process, project managers can make more informed decisions, anticipate potential delays, and improve overall project performance in the construction industry.
-
-
-Question 1 – Identify Contractors with positive delays
-Question 2 – Identify projects with delays
-
