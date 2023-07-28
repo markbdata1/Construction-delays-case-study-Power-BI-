@@ -3,6 +3,7 @@
 Case Study Background:
 
 Question 1 – Identify Contractors with positive delays
+
 Question 2 – Identify projects with delays
 
 Identify Critical Path: 
